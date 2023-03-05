@@ -3,19 +3,19 @@ import "./styles.css";
 
 const books = {
   business: [
-    { name: "The learn startup", rating: "5/4" },
-    { name: "Think and grow rich", rating: "5/4" },
-    { name: "become rich", rating: "5/4" }
+    { name: "The learn startup", rating: "4/5" },
+    { name: "Think and grow rich", rating: "4/5" },
+    { name: "become rich", rating: "4/5" }
   ],
   meditation: [
     { name: "The miracle of mindfulness", rating: "5/5" },
     { name: "Then power of now", rating: "4/5" },
-    { name: "mindfulness", rating: "5/4" }
+    { name: "mindfulness", rating: "4/5" }
   ],
   psychology: [
-    { name: "Thinking fast and slow", rating: "5/4" },
-    { name: "influence", rating: "5/4" },
-    { name: "emotional intelligence", rating: "5/4" }
+    { name: "Thinking fast and slow", rating: "4/5" },
+    { name: "influence", rating: "4/5" },
+    { name: "emotional intelligence", rating: "4/5" }
   ]
 };
 //var flavour = Object.keys(books);
